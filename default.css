@@ -280,7 +280,7 @@ a{
 #skills {
     display: flex;
     justify-content: space-evenly;
-    background-color: var(--preview-shadow);
+    /* background-color: var(--preview-shadow); */
 }
 
 #social_img{
